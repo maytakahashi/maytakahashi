@@ -13,8 +13,8 @@ Reach me anytime at maishatakahashi@gmail.com.
   ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-  ![MySQL](https://img.shields.io/badge/-Java-000000?style=flat&logo=mysql)
-  ![Typescript](https://img.shields.io/badge/-Java-000000?style=flat&logo=typescript)
+  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
+  ![Typescript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 <!--
 **maytakahashi/maytakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
