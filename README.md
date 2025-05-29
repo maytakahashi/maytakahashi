@@ -5,10 +5,7 @@ My name is May (short for Maisha) and I'm an undergraduate CS and Math student a
 Some facts about me: I love weightlifting, origami, and watching Studio Ghibli movies. I also have a twin brother!
 
 Reach me anytime at maishatakahashi@gmail.com. 
-<!--
-**maytakahashi/maytakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
@@ -16,6 +13,13 @@ Here are some ideas to get you started:
   ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+  ![MySQL](https://img.shields.io/badge/-Java-000000?style=flat&logo=mysql)
+  ![Typescript](https://img.shields.io/badge/-Java-000000?style=flat&logo=typescript)
+
+<!--
+**maytakahashi/maytakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
