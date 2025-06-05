@@ -10,7 +10,7 @@ Reach me anytime at maishatakahashi@gmail.com.
   ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
   ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-  ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
