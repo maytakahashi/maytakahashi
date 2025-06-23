@@ -2,7 +2,7 @@
 
 My name is May (short for Maisha) and I'm an undergraduate CS and Math student at Rutgers University. I'm currently working at Jane Street this summer (2025) as a Software Engineering Fellow where I've been exploring functional programming in OCaml, building projects in graph traversal, async systems, and web scraping. Most of my personal and past professional work involves designing, developing, and contributing to full-stack applications.
 
-Some facts about me: I love weightlifting, origami, and watching Studio Ghibli movies. I also have a twin brother!
+Some fun facts about me: I love weightlifting, origami, and watching Studio Ghibli movies. I also have a twin brother!
 
 Reach me anytime at maishatakahashi@gmail.com. 
 
