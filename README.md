@@ -15,6 +15,7 @@ Reach me anytime at maishatakahashi@gmail.com.
   ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
   ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
   ![Typescript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+  ![OCaml](https://img.shields.io/badge/-OCaml-000000?style=flat&logo=ocaml)
 
 <!--
 **maytakahashi/maytakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
