@@ -1,6 +1,6 @@
 ## 👋 Thanks for stopping by!
 
-My name is May (short for Maisha) and I'm an undergraduate CS and Math student at Rutgers University. I'm currently working part-time at Colgate-Palmolive as a Software Development Intern, and joining Jane Street this summer (2025) as a Software Engineering Fellow. Most of my personal and professional work involves designing, developing, and contributing to full-stack applications.
+My name is May (short for Maisha) and I'm an undergraduate CS and Math student at Rutgers University. I'm currently working at Jane Street this summer (2025) as a Software Engineering Fellow where I've been exploring functional programming in OCaml, building projects in graph traversal, async systems, and web scraping. Most of my personal and past professional work involves designing, developing, and contributing to full-stack applications.
 
 Some facts about me: I love weightlifting, origami, and watching Studio Ghibli movies. I also have a twin brother!
 
