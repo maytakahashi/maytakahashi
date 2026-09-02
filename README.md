@@ -3,7 +3,8 @@
 My name is May (short for Maisha) and I'm an undergraduate CS and Math student at Rutgers University. 
 
 Most recently, I worked at Citadel Securities (Summer 2026) as a Quantitative Developer Intern on the Options Engineering team. Previously, I worked at Jane Street (Summer 2025) as a Software Engineering fellow under their full-time JSIP program.
-In general, my experience spans quantitative development, data-intensive backend systems, low-level networking, and full-stack applications. 
+
+Generally, my personal and professional experience spans quantitative development, data-intensive backend systems, low-level networking, and full-stack applications. 
 
 Some fun facts about me: I love weightlifting, origami, and watching Studio Ghibli movies. I also have a twin brother!
 
