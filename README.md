@@ -2,7 +2,7 @@
 
 My name is May (short for Maisha) and I'm an undergraduate CS and Math student at Rutgers University. 
 
-Most recently, I worked at Citadel Securities (Summer 2026) as a Quantitative Developer Intern on the Options Engineering team where I built Python/Pandas monitoring and anomaly-detection infrastructure, analyzed large historical order and execution datasets, and developed metrics for distinguishing genuine routing regressions from data-quality issues.
+Most recently, I worked at Citadel Securities (Summer 2026) as a Quantitative Developer Intern on the Options Engineering team, where I built Python/Pandas monitoring and anomaly-detection infrastructure, analyzed large historical order and execution datasets, and developed metrics for distinguishing genuine routing regressions from data-quality issues.
 In general, my experience spans quantitative development, data-intensive backend systems, low-level networking, and full-stack applications. 
 
 Some fun facts about me: I love weightlifting, origami, and watching Studio Ghibli movies. I also have a twin brother!
