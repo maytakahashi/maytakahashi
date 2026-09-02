@@ -9,16 +9,15 @@ Some fun facts about me: I love weightlifting, origami, and watching Studio Ghib
 
 Reach me anytime at maishatakahashi@gmail.com. 
 
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
   ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-  ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+  ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
+  ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=cplusplus)
+  ![React.js](https://img.shields.io/badge/-React.js-000000?style=flat&logo=react)
   ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-  ![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql)
-  ![Typescript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
   ![OCaml](https://img.shields.io/badge/-OCaml-000000?style=flat&logo=ocaml)
+  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=openjdk)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
 
 <!--
 **maytakahashi/maytakahashi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
